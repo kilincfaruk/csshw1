@@ -1,2 +1,2 @@
-# csshw1
- csshw1
+# patika.dev CSS Homework 1
+ 
